@@ -1,0 +1,21 @@
+.hand{
+    position: absolute; 
+}
+
+.firstHand {
+    bottom: 0px;
+    left: 100px;
+}
+
+.secondHand {
+    bottom: 0px;
+    right: 100px;
+}
+
+.thirdHand {
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
